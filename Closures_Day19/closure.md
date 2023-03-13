@@ -1,0 +1,2 @@
+<!-- Closure
+JavaScript allows writing function inside an outer function. We can write as many inner functions as we want. If inner function access the variables of outer function then it is called closure. -->
